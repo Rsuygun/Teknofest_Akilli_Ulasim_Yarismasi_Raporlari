@@ -42,13 +42,3 @@ Mobil uygulamanın giriş ekranı.
 
 Mobil uygulamadan sunucuya veri aktarımı sürecinin görseli.
 
-
-## Belgeler
-
-### Katılım Sertifikası
-
-![Teknofest_Akilli_Ulasim_Yarismasi_Katılım](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/a8c36688-af88-489b-9aa4-ad0c35a6750c)
-
-### Finalist Sertifikası
-
-![Teknofest_Akilli_Ulasim_Yarismasi_Finalist_Belgesi](https://github.com/Fahrettinsolak/Teknofest-Akilli-Ulasim-Yarismasi-Raporlari/assets/79358514/f5639534-2f79-489e-a2d8-1d583072a838)
